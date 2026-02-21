@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-02-19 18:59:20,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
+2026-02-21 18:39:42,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
@@ -81,6 +83,7 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86$订阅源
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075$订阅源
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=$订阅源
+江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86$订阅源
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$订阅源
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$订阅源
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
@@ -100,7 +103,6 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114$订阅源
-陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338$订阅源
@@ -154,8 +156,8 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8$订阅源
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8$订阅源
 
@@ -170,9 +172,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
@@ -229,5 +229,14 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
+央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409$订阅源
+央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409$订阅源
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
+第一剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079$订阅源
+风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073$订阅源
+怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120$订阅源
+女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103$订阅源
+高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062$订阅源
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
+风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061$订阅源
+世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066$订阅源
