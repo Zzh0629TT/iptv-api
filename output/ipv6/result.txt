@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-25 23:19:01,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
+2026-09-27 23:17:04,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
@@ -23,8 +23,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 🎬电影频道,#genre#
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
-天映经典,https://10.fast.hidns.vip/163189/ccm/$订阅源
-天映经典,https://10.fast.hidns.vip/163189/ccm/$订阅源
+天映经典,https://cdn.qd.je/163189/ccm$订阅源
+天映经典,https://cdn.qd.je/163189/ccm$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 
 🌊港·澳·台,#genre#
