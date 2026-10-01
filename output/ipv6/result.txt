@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-30 00:38:42,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
+2026-10-02 01:39:28,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
@@ -23,8 +23,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 🎬电影频道,#genre#
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
-经典电影,https://goodiptv.club/douyu/6091425$订阅源
-经典电影,https://goodiptv.club/douyu/6091425$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 
 🌊港·澳·台,#genre#
@@ -33,13 +31,8 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
 
 ☘️湖南频道,#genre#
-长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8$订阅源
-长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8$订阅源
-长沙新闻,http://ls.qingting.fm/live/4877.m3u8$订阅源
 
 ☘️上海频道,#genre#
-上海第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
-第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
 
 ☘️北京频道,#genre#
 
